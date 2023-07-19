@@ -1,5 +1,5 @@
 ###############################################################################
-								SETTING UP GIT
+				SETTING UP GIT
 ###############################################################################
 
 	-- To start we need to install Git in order to upload to GitHub
@@ -34,3 +34,6 @@
 	
 	- Once finished setting up repository, click "Create Repository"
 	(CONGRATS: You have just made your first GitHub repo! Although, it's a little empty, so let's go ahead and add some files.)
+	
+	
+	GOTO: what_is_Git.txt
