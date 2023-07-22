@@ -2,7 +2,7 @@
 
 The first choice you make when starting to work with Git is either clone an existing remote source code repository or create your own new local repository to publish. In this brief example we will will be creating our own from scratch so you can get a taste of what's to come. 
 
-> We began by creating our very first repo in https://github.com/flapjacksauce/learn_git/getting_started.md which is closer related to using a basic web layout you're probably familar with, buttons, icons, bells and wistles. There are multiple ways to make pull requests and push updates, for now we will stick to the easier easier approach.
+> We began by creating our very first repo in https://github.com/flapjacksauce/learn_Git/blob/main/getting_started/setting_up_git.md which is closer related to using a basic web layout you're probably familar with, buttons, icons, bells and wistles. There are multiple ways to make pull requests and push updates, for now we will stick to the easier easier approach.
 
 1. Navigate to a project folder you wish to store your repository. 
 
