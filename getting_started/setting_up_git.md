@@ -45,9 +45,9 @@ To start we need to install Git in order to upload to GitHub
     > (Private = You choose who can see and commit to this repository.)  
 
     Skip these 3 steps for now
-    > Decide whether to have GitHub include a README file (which basically includes just the repository title), or upload your own (more on README: whats_README.txt)  
-    > Decide whther to add .gitignore file (more on .gitignore: whats_gitignore.txt)  
-    > Choose which license to include (more on licensing: choose_license.txt)  
+    * Decide whether to have GitHub include a README file (which basically includes just the repository title), or upload your own (more on README: whats_README.txt)  
+    * Decide whther to add .gitignore file (more on .gitignore: whats_gitignore.txt)  
+    * Choose which license to include (more on licensing: choose_license.txt)  
 
     Congrats!
     > Once finished setting up repository, click "Create Repository"  
