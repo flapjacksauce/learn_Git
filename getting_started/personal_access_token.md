@@ -18,4 +18,4 @@
     > This is the access token you will use when Git asks for your passphrase
 	
 ## Reference
-* https://github.com/flapjacksauce/learn_Git/blob/main/getting_started/startup_project.md
+* https://github.com/flapjacksauce/learn_Git/blob/main/getting_started/setup_project.md
