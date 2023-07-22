@@ -7,7 +7,7 @@
 	> On a windows machine you can install Git by opening a new cmd terminal    
 	> Once terminal window is opened enter the following command:  
 	
-    # [CMD]
+# CMD Prompt
 	
 	```sh
 	winget install -e --id Git.Git
