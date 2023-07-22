@@ -55,4 +55,4 @@ To start we need to install Git in order to upload to GitHub
 	
 ## References
 
-* https://github.com/flapjacksauce/learn_Git/getting_started/setup_project.md
+* https://github.com/flapjacksauce/learn_Git/blob/main/getting_started/setup_project.md
