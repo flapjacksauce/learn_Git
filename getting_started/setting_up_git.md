@@ -52,7 +52,12 @@ To start we need to install Git in order to upload to GitHub
     Congrats!
     > Once finished setting up repository, click "Create Repository"  
     > (You have just made your first GitHub repo! Although, it's a little empty, so let's go ahead and add some files.)  
+
+## Setup Project
+
+* https://github.com/flapjacksauce/learn_Git/blob/main/getting_started/setup_project.md
+
 	
 ## References
 
-* https://github.com/flapjacksauce/learn_Git/blob/main/getting_started/setup_project.md
+* https://github.com/flapjacksauce/learn_Git/blob/main/getting_started
