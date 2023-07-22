@@ -2,18 +2,20 @@
 
 To start we need to install Git in order to upload to GitHub  
 
-# How to Install  
+> We will start by running a few CMD lines   
+
+# How to Install 
 
     > On a windows machine you can install Git by opening a new cmd terminal  
     > Once terminal window is opened enter the following command:  
 
-# CMD Prompt  
+# CMD Prompt 
 
-    > Call winget install by Git id
+1. Install Git
 
     ```sh
 	winget install -e --id Git.Git
-    ```  
+	```  
 	
 	If you do not have winget, it will ask you if you wish to install; select yes.  Winget is a very helpful package downloader similar to how Git works, instead its focus is primarily installing, updating, and managing programs via the CMD Promt.  
     > (This will install Git and all it's neccesary files to operate without the need of navigating to the webpage and installing the installer)
@@ -33,6 +35,8 @@ To start we need to install Git in order to upload to GitHub
     > On a Linux machine (null)  
 
 # Setting up GitHub
+
+2. Creating a GitHub account
 
     > If you do not have a GitHub account, then after creating your new account and are finished setting up your profile, navigate to my repositories and click "NEW".  
     > Give your new repository a memorable name  
