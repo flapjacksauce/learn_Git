@@ -9,6 +9,8 @@
 	
 # CMD Prompt
 	
+	> Call winget install by Git id
+	
 	```sh
 	winget install -e --id Git.Git
 	```
