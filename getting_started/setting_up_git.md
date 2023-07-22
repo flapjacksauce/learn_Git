@@ -38,11 +38,11 @@ To start we need to install Git in order to upload to GitHub
 
 2. Creating a GitHub account
 
-    > If you do not have a GitHub account, then after creating your new account and are finished setting up your profile, navigate to my repositories and click "NEW".  
+    If you do not have a GitHub account, then after creating your new account and are finished setting up your profile, navigate to my repositories and click "NEW".  
     > Give your new repository a memorable name  
     > Select privacy (Public or Private)  
-    > (Public = Anyone on the internet can see this repository.  You choose who can commit.)  
-    > (Private = You choose who can see and commit to this repository.)  
+    * (Public = Anyone on the internet can see this repository.  You choose who can commit.)  
+    * (Private = You choose who can see and commit to this repository.)  
 
     Skip these 3 steps for now
     * Decide whether to have GitHub include a README file (which basically includes just the repository title), or upload your own (more on README: whats_README.txt)  
