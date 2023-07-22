@@ -13,7 +13,7 @@ To start we need to install Git in order to upload to GitHub
 
     ```sh
 	winget install -e --id Git.Git
-	```  
+    ```  
 	
 	If you do not have winget, it will ask you if you wish to install; select yes.  Winget is a very helpful package downloader similar to how Git works, instead its focus is primarily installing, updating, and managing programs via the CMD Promt.  
     > (This will install Git and all it's neccesary files to operate without the need of navigating to the webpage and installing the installer)
