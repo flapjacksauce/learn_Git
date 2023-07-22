@@ -97,6 +97,10 @@ The first choice you make when starting to work with Git is either clone an exis
     ```sh
     git push origin main
     ```
+	
+	Loging in with Git 
+	> Git will require not your GitHub passphrase, but a PAT what is known as a "Personal Access Token"
+	Refer to:  https://github.com/flapjacksauce/learn_Git/blob/main/getting_started/personal_access_token.md
 
 9. Check out your NEW REPO
 
