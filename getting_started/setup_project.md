@@ -12,9 +12,9 @@ The first choice you make when starting to work with Git is either clone an exis
 
     Let's create our first file:
 
-    > Press "Windows" + "R" keys at the same time to start RUN
-    > Once in RUN type in "cmd" and press enter.
-    > Open CMD Prompt and CD into project folder directory
+    > Press "Windows" + "R" keys at the same time to start RUN  
+    > Once in RUN type in "cmd" and press enter.  
+    > Open CMD Prompt and CD into project folder directory  
 
     ```sh
     CD %USERPROFILE%/Desktop/Project
@@ -65,7 +65,7 @@ The first choice you make when starting to work with Git is either clone an exis
     ```
 6. Commit Changes.
 
-    > A commit is basically resuring that this is the actual file(s) you would like to post.
+    > A commit is basically reassuring that this is the actual file(s) you would like to post.
     > You may have has many changes on your working branch but to cherry pick which files we would like to upload at a given time, we can use the (add) command in our previous step.
     > Once commited, the working branch is clear of the file(s) you selected and ready to push. 
 
@@ -98,9 +98,9 @@ The first choice you make when starting to work with Git is either clone an exis
     git push origin main
     ```
 
-9. CHeck out your NEW REPO
+9. Check out your NEW REPO
 
-    > Navigate to your new GitHub web page, you should see a README.md file and the title displayed on the GitHub Repository.
+    > Navigate to your new GitHub Repo web page , you should see a README.md file and the title displayed on the GitHub Repository.
 
     If pushed succesfully your output should be similar to this:
     ```
