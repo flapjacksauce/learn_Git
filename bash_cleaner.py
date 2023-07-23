@@ -6,7 +6,7 @@ system = (os.path.expanduser('~'))
 user = system.replace('\\', '/')
 
 # Cleans every 4 HOURS
-def clean(t=5):
+def clean(t=14400):
 
     # Loop
     while True:
