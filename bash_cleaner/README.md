@@ -5,12 +5,14 @@ To start we need to install Bash Cleaner into out Git directory
 > We will start by running a few CMD lines   
 
 # How to Install 
-
+	
+    The easy method:
     > Once you have your copy of Bash Cleaner by pulling this repo   
     > Store the bash_cleaner.py in the Git directory path  
     > C:\Program Files\Git
 	
-	> Alternatively you can create a system PATH vairable pointing it wherever.
+    The more complex method:
+    > Alternatively you can create a system PATH vairable pointing it wherever script is located.
 
 # BASH Prompt 
 
