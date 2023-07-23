@@ -1,6 +1,6 @@
 # Setting Up Bash Cleaner
 
-To start we need to install Bash Cleaner into out Git directory  
+To start we need to install Bash Cleaner into our Git directory  
 
 > We will start by running a few CMD lines   
 
@@ -96,6 +96,8 @@ To start we need to install Bash Cleaner into out Git directory
 
 	
 ## Comments
+
+	Any bugs or issues found please do inform me and I will look into the situation.
 	
 	> Hope this serves you well,
 	
