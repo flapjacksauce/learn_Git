@@ -7,11 +7,17 @@
 1. In this section we discuss what is Git and how it works:
 * https://github.com/flapjacksauce/learn_Git/blob/main/getting_started/what_is_git.md
 
+# Setting Up Git
+
 2. In this section we go over how to install and set up Git:
 * https://github.com/flapjacksauce/learn_Git/blob/main/getting_started/setting_up_git.md
 
+# Setup Project
+
 3. In this section we create our first project:
 * https://github.com/flapjacksauce/learn_Git/blob/main/getting_started/setup_project.md
+
+# Personal Access Token
 
 4. In this section we create (PAT) Personal Access Token:
 * https://github.com/flapjacksauce/learn_Git/blob/main/getting_started/personal_access_token.md
