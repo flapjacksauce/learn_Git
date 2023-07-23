@@ -51,8 +51,8 @@ To start we need to install Bash Cleaner into our Git directory
 	export PROMPT_COMMAND="history -a;history -c;history -r"
 	```
 	
-	Now that you successfully created the alias shortcuts, let's update Git so it knows where to look:
-	> What this command does is simply (refresh) the .bashrc file
+	Now that you successfully created the alias shortcuts, let's update Git so it knows where to look:  
+	> What this command does is simply (refresh) the .bashrc file  
     > Once this command is run our custom aliases will be activated for each new Git session we open!  
 
     ```sh
