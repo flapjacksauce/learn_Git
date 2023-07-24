@@ -1,6 +1,6 @@
 # WHAT IS GIT  
 
-    > Git tracks the changes you make in a file or folders essentially
+> Git tracks the changes you make in a file or folders essentially
 	
 # How It Works  
 
@@ -16,15 +16,15 @@
 
 2. What .git does
     > It stores what's known as headers that hold the sole duty to store information so that it's reusable across multiple files 
-        * including variables
-        * functions
-        * structures
-        * macros
+    * including variables
+    * functions
+    * structures
+    * macros
 		
     > contains all information that is necessary for the project and all information relating commits 
-        * remote repository address
-        * Contains a log that stores commit history 
-        * Roll back to the desired version of the code
+	* remote repository address
+	* Contains a log that stores commit history 
+	* Roll back to the desired version of the code
 	
     > (TO better understand this, let's make a new startup project so we can see the .git in action)
 
