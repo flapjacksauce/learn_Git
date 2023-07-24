@@ -32,4 +32,4 @@
     > (TO better understand this, let's make a new startup project so we can see the .git in action)
 
 ## Link
-* https://github.com/flapjacksauce/learn_Git/getting_started/startup_project.md
+* https://github.com/flapjacksauce/learn_Git/blob/main/getting_started/setting_up_git.md
