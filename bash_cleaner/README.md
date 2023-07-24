@@ -5,6 +5,8 @@ To start we need to install Bash Cleaner into our Git directory
 > We will start by running a few CMD lines   
 
 # How to Install 
+
+1. Installing
 	
     The easy method:
     > Once you have your copy of Bash Cleaner by pulling this repo   
@@ -25,10 +27,11 @@ To start we need to install Bash Cleaner into our Git directory
     ```
     echo 'alias clean="python C:/Users/flap/Desktop/learn_Git/bash_cleaner/bash_cleaner.py"' >> ~/.bashrc
     ```
+	This recommended approach will allow you to clean in real time from any working directory!
 
 # BASH Prompt 
 
-1. Creating Alias
+2. Creating Alias
 
     ```sh
 	echo 'alias clean="python bash_cleaner.py"' >> ~/.bashrc
