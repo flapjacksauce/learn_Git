@@ -33,7 +33,7 @@
     > Or enter whichever your PATH is..
 	
     ```
-    export PATH="$PATH:[C:/Program Files/Python311]:[C:/Program Files/Python311]/Scripts]"
+    echo 'export PATH="$PATH:[C:/Program Files/Python311]:[C:/Program Files/Python311]/Scripts]"' >> ~/.bashrc
     ```
 	
 3. Refresh Git
