@@ -8,8 +8,10 @@
 
     > Once you create a repository, in the background Git creates whats know as a .git file  
     > A .git file is responsible for all the changes and updates to a GitHub repository  
-    > Where ever the .git file is located in your projects file, that is the ROOT of the repository, meaning any other folder or file after the .git is included into the repo.  
-    > If the .git file is moved or tampered with in any way it can have negative effects on Git to track the progrss or perhaps not at all. (.git is vital to the repo)  
+    > Where ever the .git file is located in your projects file, that is the ROOT of the repository.  
+    > Meaning, any other folder or file after the .git is included into the repo.  
+    > If the .git file is moved or tampered with in any way it can have negative effects on Git to track the progrss or perhaps not at all.  
+    > (.git is vital to the repo)  
     * Importance of .git folder  !! DO NOT TAMPER WITH !! ~~  
 
 # Responsibilities
@@ -20,9 +22,10 @@
     * functions
     * structures
     * macros
-		
-    > contains all information that is necessary for the project and all information relating commits 
-	* remote repository address
+	
+
+    > Contains all information that is necessary for the project and all information relating commits 
+	* Remote repository address
 	* Contains a log that stores commit history 
 	* Roll back to the desired version of the code
 	
