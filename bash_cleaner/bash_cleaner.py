@@ -26,6 +26,8 @@ for d in range(0, len(history)):
         if(history[d] == history[j]):
             removed_history.append(history[j].strip("\n"))
 
+values.sort()
+
 # Prints History after duplicates removed
 # To turn On -- DELETE the following 2 sets of (""")
 
