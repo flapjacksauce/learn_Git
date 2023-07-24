@@ -10,9 +10,21 @@ To start we need to install Bash Cleaner into our Git directory
     > Once you have your copy of Bash Cleaner by pulling this repo   
     > Store the bash_cleaner.py in the Git directory path  
     > C:\Program Files\Git
+	* If you do this approach you will only be able to clean while in "C /" directory
 	
-    The more complex method:
-    > Alternatively you can create a system PATH vairable pointing it wherever script is located.
+    The more complex method: (Recommended)
+    > Alternatively you can create a system PATH vairable pointing it wherever script is located.  
+    > After you pulled this repo navigate to that directory and copy the directory path.
+    * Follow same steps bellow for the easy method;  
+    * Except paste the repo directory containing the bash_cleaner.py file
+	
+    > This way you will be able to update the software if any new releases or patchs just by pulling the repo again.
+	
+    It should look something similar to this:
+	
+    ```
+    echo 'alias clean="python C:/Users/flap/Desktop/learn_Git/bash_cleaner/bash_cleaner.py"' >> ~/.bashrc
+    ```
 
 # BASH Prompt 
 
