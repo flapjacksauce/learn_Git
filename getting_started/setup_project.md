@@ -71,7 +71,7 @@ The first choice you make when starting to work with Git is either clone an exis
 
     Making the changes final and ready to upload
     ```sh
-    git commit origin main
+    git commit -m "your commit message"
     ```
 
 7. Create a Remote Connection
