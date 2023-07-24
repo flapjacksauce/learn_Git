@@ -6,7 +6,14 @@ To start we need to install Bash Cleaner into our Git directory
 
 # How to Install 
 
-1. Installing
+1. Dependencies
+
+	Dependencies: Python is require to run this script.
+	> You must have Git looking at Python PATH
+	> Configure this step first and then proceed
+	* https://github.com/flapjacksauce/learn_Git/blob/main/bash_cleaner/dependencies.md  
+	
+2. Installing
 	
     The easy method: (Not Recommended)
     > Once you have your copy of Bash Cleaner by pulling this repo.  
@@ -37,7 +44,7 @@ To start we need to install Bash Cleaner into our Git directory
 
 # BASH Prompt 
 
-2. Creating Alias
+3. Creating Alias
 
     ```sh
 	echo 'alias clean="python bash_cleaner.py"' >> ~/.bashrc
@@ -102,7 +109,7 @@ To start we need to install Bash Cleaner into our Git directory
 
 # Output
 
-2. Output History
+4. Output History
 
     If you wish to have verbose output.  
     > In the script, there is a commented section.  
