@@ -8,16 +8,16 @@ To start we need to install Bash Cleaner into our Git directory
 
 1. Installing
 	
-    The easy method:
-    > Once you have your copy of Bash Cleaner by pulling this repo   
-    > Store the bash_cleaner.py in the Git directory path  
-    > C:\Program Files\Git
-	* If you do this approach you will only be able to clean while in "C /" directory
+    The easy method: (Not Recommended)
+    > Once you have your copy of Bash Cleaner by pulling this repo.  
+    > Store the bash_cleaner.py in the Git directory path.  
+    > C:\Program Files\Git  
+	* If you do this approach you will only be able to "clean" while in "C /" directory
 	
     The more complex method: (Recommended)
-    > Alternatively you can create a system PATH vairable pointing it wherever script is located.  
+    > Alternatively you can create a system PATH vairable pointing it wherever the script is located.  
     > After you pulled this repo navigate to that directory and copy the directory path.
-    * Follow same steps bellow for the easy method;  
+    * Follow the same steps bellow for the easy method;  
     * Except paste the repo directory containing the bash_cleaner.py file
 	
     > This way you will be able to update the software if any new releases or patchs just by pulling the repo again.
@@ -27,7 +27,13 @@ To start we need to install Bash Cleaner into our Git directory
     ```
     echo 'alias clean="python C:/Users/flap/Desktop/learn_Git/bash_cleaner/bash_cleaner.py"' >> ~/.bashrc
     ```
-	This recommended approach will allow you to clean in real time from any working directory!
+    > Alternatively, you could use a "~" to print your user path:
+	
+    Shorthand:
+    ```
+    echo 'alias clean="python ~/Desktop/learn_Git/bash_cleaner/bash_cleaner.py"' >> ~/.bashrc
+    ```
+    This recommended approach will allow you to "clean" in real time from any working directory!
 
 # BASH Prompt 
 
@@ -42,7 +48,7 @@ To start we need to install Bash Cleaner into our Git directory
 	```sh
 	nano ~/.bashrc
 	```
-	Enther in this line, save and close .bashrc
+	Enter in this line, save and close .bashrc
 	
 	```sh
 	alias clean="python bash_cleaner.py"
@@ -98,13 +104,19 @@ To start we need to install Bash Cleaner into our Git directory
 
 2. Output History
 
-    If you wish to have verbose History output.  
-    > In the script there is a commented section    
-    > Removing the commented out portion will activate verbose output  
+    If you wish to have verbose output.  
+    > In the script, there is a commented section.  
+    > Removing the commented out portion will activate verbose output.  
     * Default (off)  
-    * Verbose History output  (listed by index)
-	> (may be a lengthy list depending on your bash command history)    
-
+    * Verbose History output  (listed by index)  
+	> (may be a lengthy list depending on your bash command history)  
+    
+	Otherwise the native command will do just fine:  
+	
+    ```sh
+	history
+    ```
+	
 ## Bash Cleaner
 
 * https://github.com/flapjacksauce/learn_Git/blob/main/bash_cleaner/bash_cleaner.py
