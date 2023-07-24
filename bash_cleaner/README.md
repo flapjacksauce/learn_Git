@@ -20,7 +20,7 @@ To start we need to install Bash Cleaner into our Git directory
     * Follow the same steps bellow for the easy method;  
     * Except paste the repo directory containing the bash_cleaner.py file
 	
-    > This way you will be able to update the software if any new releases or patchs just by pulling the repo again.
+    > This way you will be able to update the software if any new releases or patches just by pulling the repo again.
 	
     It should look something similar to this:
 	
