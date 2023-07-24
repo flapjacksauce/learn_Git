@@ -44,7 +44,7 @@
     . ~/.bashrc
     ```
 	
-4. Procceed with BASHER
+4. Proceed with BASHER
 
     Now that all the depencies are out of the way!
     > It's time to get back to setting up the bash_cleaner.py
