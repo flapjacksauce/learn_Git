@@ -1,5 +1,5 @@
 # -- BAHSER -- 
-# History Cleaner v1.0.1
+# History Cleaner v1.0.2
 
 import os
 
