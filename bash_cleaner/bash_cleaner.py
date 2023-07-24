@@ -27,6 +27,7 @@ for d in range(0, len(history)):
             removed_history.append(history[j].strip("\n"))
 
 values.sort()
+removed_history = list(dict.fromkeys(removed_history))
 
 # Prints History after duplicates removed
 # To turn On -- DELETE the following 2 sets of (""")

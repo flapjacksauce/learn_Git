@@ -21,7 +21,7 @@
     * including variables
     * functions
     * structures
-    * macros
+    * macros  
 	
 
     > Contains all information that is necessary for the project and all information relating commits 

@@ -125,4 +125,4 @@ The first choice you make when starting to work with Git is either clone an exis
 
 ## References
 
-* https://github.com/flapjacksauce/lear_Git/getting_started.git
+* https://github.com/flapjacksauce/learn_Git
